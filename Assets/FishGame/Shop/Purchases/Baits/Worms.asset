@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea6958b0ca93624883558f15a1475cf, type: 3}
+  m_Name: Worms
+  m_EditorClassIdentifier: 
+  _baitID: 2
+  _baitSprite: {fileID: 21300000, guid: eca1b702a1c47404f913b80554365b24, type: 3}
+  _rating: 3
+  _baitName: "\u0427\u0435\u0440\u0432\u0438"
+  _memo: 
+  _price: 15
+  _prefab: {fileID: 2866874245203301761, guid: e747695fcee05034b842448c42b1a04d, type: 3}
+  _languageData: {fileID: 11400000, guid: 3521573ec5e1ea842a2be836d6cb36f0, type: 2}
+  _countAnimations: 3
+  _prefabForShop: {fileID: 2866874245203301761, guid: e747695fcee05034b842448c42b1a04d, type: 3}
+  _scaleForShop: 0.28
+  _scaleForShopItem: 1.83

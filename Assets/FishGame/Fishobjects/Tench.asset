@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66c68837b2137748ac47bd05f0c5c91, type: 3}
+  m_Name: Tench
+  m_EditorClassIdentifier: 
+  _fishID: 1
+  _fishName: Tench
+  _minWeight: 100
+  _maxWeight: 7500
+  _tropheyBlackPhoto: {fileID: 21300000, guid: fb8b5319eb961e04b84f0368d78e6855, type: 3}
+  _tropheyColorPhoto: {fileID: 21300000, guid: 00b79a009952ce44f87ede38499f9cf0, type: 3}
+  _fishObject: {fileID: 2414799665254962735, guid: 1ab8679feab789e4895aa3ac1e63c75e, type: 3}
+  _lakesLive:
+  - {fileID: 11400000, guid: 646a1c13b24c2d24780ed93e3d186084, type: 2}
+  _baites:
+  - {fileID: 11400000, guid: bce110b1dc1c0b1469c3e030dcc2e1fd, type: 2}
+  - {fileID: 11400000, guid: 8b9fc23da6aa9014e926ce791c5daa06, type: 2}
+  - {fileID: 11400000, guid: 1e7af66c5a49b6843a50f5792e796a88, type: 2}
+  _price: 150
+  _languageData: {fileID: 11400000, guid: bbf12c0eeab5d7845a78eb7b2d5a48eb, type: 2}

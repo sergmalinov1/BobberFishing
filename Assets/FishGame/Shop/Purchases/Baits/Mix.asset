@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea6958b0ca93624883558f15a1475cf, type: 3}
+  m_Name: Mix
+  m_EditorClassIdentifier: 
+  _baitID: 6
+  _baitSprite: {fileID: 21300000, guid: fa49e292ef5145e47be6d5fd83f10928, type: 3}
+  _rating: 6
+  _baitName: Mix
+  _memo: 
+  _price: 10
+  _prefab: {fileID: 8772374038318501446, guid: a9b275a0b5089644aa1f0e860ce77162, type: 3}
+  _languageData: {fileID: 11400000, guid: cd0ab8b4c8bd7ba4f95caf4b595d95fe, type: 2}
+  _countAnimations: 3
+  _prefabForShop: {fileID: 8772374038318501446, guid: a9b275a0b5089644aa1f0e860ce77162, type: 3}
+  _scaleForShop: 0.28
+  _scaleForShopItem: 1.83

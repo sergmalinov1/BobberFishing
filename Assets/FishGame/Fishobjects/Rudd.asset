@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66c68837b2137748ac47bd05f0c5c91, type: 3}
+  m_Name: Rudd
+  m_EditorClassIdentifier: 
+  _fishID: 5
+  _fishName: Rudd
+  _minWeight: 100
+  _maxWeight: 2100
+  _tropheyBlackPhoto: {fileID: 21300000, guid: 11a99a003cbe51841a21c9aa92b8e566, type: 3}
+  _tropheyColorPhoto: {fileID: 21300000, guid: 4a89aa26afd03f449a7c940af8104c1d, type: 3}
+  _fishObject: {fileID: 7598871748925092240, guid: 7a7b12eb45a76f54b8af5a5c73345b36, type: 3}
+  _lakesLive:
+  - {fileID: 11400000, guid: 4ef5349549950a847b8cb7bd64125446, type: 2}
+  - {fileID: 11400000, guid: b6b07cf83fc1f18438a00924e434b070, type: 2}
+  - {fileID: 11400000, guid: 111707645d924c94385269704b4d5bda, type: 2}
+  - {fileID: 11400000, guid: 63c9c25f7d188774e90ac54d6ba4d992, type: 2}
+  - {fileID: 11400000, guid: 646a1c13b24c2d24780ed93e3d186084, type: 2}
+  _baites:
+  - {fileID: 11400000, guid: bce110b1dc1c0b1469c3e030dcc2e1fd, type: 2}
+  - {fileID: 11400000, guid: 8b9fc23da6aa9014e926ce791c5daa06, type: 2}
+  - {fileID: 11400000, guid: 1e7af66c5a49b6843a50f5792e796a88, type: 2}
+  _price: 100
+  _languageData: {fileID: 11400000, guid: 790915bb6d80867408e3ec6a9ee61f8f, type: 2}

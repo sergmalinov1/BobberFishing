@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea6958b0ca93624883558f15a1475cf, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: 
+  _baitID: 1
+  _baitSprite: {fileID: 21300000, guid: f6846952dcb177d4ca6da31d5c0fdd52, type: 3}
+  _rating: 2
+  _baitName: "\u0425\u043B\u0435\u0431"
+  _memo: 
+  _price: 8
+  _prefab: {fileID: 989338331946936161, guid: 6890cb80a1ce073438c26516d11df321, type: 3}
+  _languageData: {fileID: 11400000, guid: ec4aeeedc988d5742848d95514ce6cd3, type: 2}
+  _countAnimations: 1
+  _prefabForShop: {fileID: 989338331946936161, guid: 6890cb80a1ce073438c26516d11df321, type: 3}
+  _scaleForShop: 0.18
+  _scaleForShopItem: 1.83

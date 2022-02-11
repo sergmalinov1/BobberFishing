@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d8d944a1c345a14abcbc533d5c5711f, type: 3}
+  m_Name: HookBoil
+  m_EditorClassIdentifier: 
+  _hookID: 6
+  _hookSprite: {fileID: 21300000, guid: fe5816a692756354dacf8b629ddcf278, type: 3}
+  _rating: 5
+  _hookName: Boil
+  _memo: 
+  _price: 10
+  _prefab: {fileID: 5610811741793377249, guid: 1c4ece7e891c225468c5fbce80149f3b, type: 3}
+  _prefabForShop: {fileID: 5610811741793377249, guid: 1c4ece7e891c225468c5fbce80149f3b, type: 3}
+  _languageData: {fileID: 11400000, guid: 7bc643b82e2ecb741adfac7120f6a15a, type: 2}
+  _scaleForShop: 0.3
+  _scaleForShopItem: 2

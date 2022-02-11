@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66c68837b2137748ac47bd05f0c5c91, type: 3}
+  m_Name: Carp
+  m_EditorClassIdentifier: 
+  _fishID: 2
+  _fishName: Carp
+  _minWeight: 50
+  _maxWeight: 30000
+  _tropheyBlackPhoto: {fileID: 21300000, guid: cf28dbdd2f580ed4eb3fc0a888780bb3, type: 3}
+  _tropheyColorPhoto: {fileID: 21300000, guid: 6b430a04810d2e3418a1097a986ef8aa, type: 3}
+  _fishObject: {fileID: 1707727031824623315, guid: af2f6aee0ddf02c41ba5a5d93ca23265, type: 3}
+  _lakesLive:
+  - {fileID: 11400000, guid: 63c9c25f7d188774e90ac54d6ba4d992, type: 2}
+  - {fileID: 11400000, guid: 646a1c13b24c2d24780ed93e3d186084, type: 2}
+  _baites:
+  - {fileID: 11400000, guid: 26d7a841cc89d434e98290ba7851cc76, type: 2}
+  - {fileID: 11400000, guid: c99fc1561dd97b14cba0dcbaab51dd2e, type: 2}
+  _price: 90
+  _languageData: {fileID: 11400000, guid: ac3eacc5d00c6c744bd194801ff4f4c3, type: 2}

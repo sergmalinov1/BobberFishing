@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea6958b0ca93624883558f15a1475cf, type: 3}
+  m_Name: Maggot
+  m_EditorClassIdentifier: 
+  _baitID: 3
+  _baitSprite: {fileID: 21300000, guid: 6c5a755054ea6fb4393fd2b0d113fff9, type: 3}
+  _rating: 3
+  _baitName: "\u041E\u043F\u0430\u0440\u044B\u0448\u0438"
+  _memo: 
+  _price: 5
+  _prefab: {fileID: 1933265277606788661, guid: 23ad4f0a37ec3db408dc880d46c78ed8, type: 3}
+  _languageData: {fileID: 11400000, guid: 30e7ef68eef77b448a2df92f5a959a22, type: 2}
+  _countAnimations: 3
+  _prefabForShop: {fileID: 1933265277606788661, guid: 23ad4f0a37ec3db408dc880d46c78ed8, type: 3}
+  _scaleForShop: 0.28
+  _scaleForShopItem: 1.83

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afdba0cc524e5824183048aef7e21734, type: 3}
+  m_Name: Fishline5
+  m_EditorClassIdentifier: 
+  _fishlineID: 5
+  _fishlineSprite: {fileID: 0}
+  _rating: 5
+  _fishlineName: "\u041B\u0435\u0441\u043A\u0430-5"
+  _maxWeight: 8000
+  _memo: 
+  _price: 30
+  _prefab: {fileID: 1160967771627880319, guid: 2706a32c022d4c940868e3b8c3077514, type: 3}
+  _prefabForShop: {fileID: 8364137242693212872, guid: 4f00d2269810c0a48a9454451c451e39, type: 3}
+  _languageData: {fileID: 11400000, guid: 72ceb8fe039924e4495ff20a72b9a388, type: 2}
+  _scaleForShop: 1
+  _fishlineColor: {r: 0.627451, g: 0.627451, b: 0.3803922, a: 0}
